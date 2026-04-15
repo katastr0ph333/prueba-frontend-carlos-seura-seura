@@ -14,3 +14,7 @@ necesito desarrollar una pagina sobre un producto tecnologico donde se presente 
 etapa 2 prom
 ahora necesito que pongas mas partes en la pagina una hablando des producto y sus caracteristicas, detalles y mas
 
+(no util)
+
+etapa 4
+neceito mejorar la pagina para adaptarla adiferentes disposuibtivos y mejorar el estylo 
