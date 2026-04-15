@@ -1,0 +1,15 @@
+etapa 1 
+se utilizo para levantar la pagina y darle el primer formato (util)se obtuvo lo esperado
+necesito desarrollar una pagina sobre un producto tecnologico donde se presente el objeto de forma atractiva y clara, la primera parte debe tenre Construye una primera versión del sitio que incluya:
+
+• nombre del producto,
+
+• breve descripción,
+
+• una estructura básica del sitio,
+
+• una sección destacada (presentación del producto).
+
+
+etapa 2 prom
+ahora necesito que pongas mas partes en la pagina una hablando des producto y sus caracteristicas, detalles y mas
