@@ -1,0 +1,55 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #0078d7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Sección destacada */
+.featured {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #eaf6ff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.featured img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.featured h2 {
+    margin-top: 20px;
+    font-size: 2rem;
+    color: #0056a3;
+}
+
+.featured p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #555;
+}
